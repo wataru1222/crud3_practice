@@ -1,0 +1,2 @@
+class CrudPractice < ApplicationRecord
+end
